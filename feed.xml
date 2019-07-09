@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>rod-o-blog</title>
+    <link href="https://rodoviario.github.io/publii-blog/feed.xml" rel="self" />
+    <link href="https://rodoviario.github.io/publii-blog" />
+    <updated>2019-07-08T21:38:53-03:00</updated>
+    <author>
+        <name>Rod</name>
+    </author>
+    <id>https://rodoviario.github.io/publii-blog</id>
+
+    <entry>
+        <title>Testing, one, two, three</title>
+        <author>
+            <name>Rod</name>
+        </author>
+        <link href="https://rodoviario.github.io/publii-blog/testing-one-two-three/"/>
+        <id>https://rodoviario.github.io/publii-blog/testing-one-two-three/</id>
+
+        <updated>2019-07-08T21:38:29-03:00</updated>
+            <summary>
+                <![CDATA[
+                    El primer post con este sistema para blogs estáticos llamado publii :)
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                El primer post con este sistema para blogs estáticos llamado <strong>publii</strong> :)
+            ]]>
+        </content>
+    </entry>
+</feed>
