@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://rodoviario.github.io/setting-up-the-new-gh-readmeprofile-page/",
+            "url": "https://rodoviario.github.io/setting-up-the-new-gh-readmeprofile-page/",
+            "title": "Setting up the new GH Readme/Profile page",
+            "summary": "As mentioned in many posts, now you can have neatly displayer readme markdown document in your github profile page by creating a repo with the name of your user and creating a README.md file on it. It supports animated gifs, links, images, and some dynamic&hellip;",
+            "content_html": "<p>As mentioned in many posts, now you can have neatly displayer readme markdown document in your github profile page by creating a repo with the name of your user and creating a README.md file on it.</p>\n<p>It supports animated gifs, links, images, and some dynamic data by using neat github actions tricks on it. Its contents will be displayed inside your github profile page.</p>",
+            "author": {
+                "name": "Rod"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-27T12:48:38-03:00",
+            "date_modified": "2020-09-27T12:48:38-03:00"
+        },
+        {
             "id": "https://rodoviario.github.io/testing-one-two-three/",
             "url": "https://rodoviario.github.io/testing-one-two-three/",
             "title": "Testing, one, two, three",
