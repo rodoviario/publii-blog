@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://rodoviario.github.io/the-best-time-for-coding/",
+            "url": "https://rodoviario.github.io/the-best-time-for-coding/",
+            "title": "The best time for coding",
+            "summary": "Early morning, before the normal day starts, its easier to focus on whatever thing you want to. Of course, that is not enterely true if you had a bad night lacking sleep, and also may be not true for many people and for different reazons,&hellip;",
+            "content_html": "<p>Early morning, before the normal day starts, its easier to focus on whatever thing you want to. Of course, that is not enterely true if you had a bad night lacking sleep, and also may be not true for many people and for different reazons, but its been the best time for me, either to solver problemas or to learn new things.</p>",
+            "author": {
+                "name": "Rod"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-01T06:16:01-03:00",
+            "date_modified": "2020-10-01T06:16:01-03:00"
+        },
+        {
             "id": "https://rodoviario.github.io/setting-up-the-new-gh-readmeprofile-page/",
             "url": "https://rodoviario.github.io/setting-up-the-new-gh-readmeprofile-page/",
             "title": "Setting up the new GH Readme/Profile page",
