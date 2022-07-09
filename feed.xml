@@ -3,7 +3,7 @@
     <title>rod-o-blog</title>
     <link href="https://rodoviario.github.io/feed.xml" rel="self" />
     <link href="https://rodoviario.github.io" />
-    <updated>2022-07-09T19:50:59-03:00</updated>
+    <updated>2022-07-09T20:17:13-03:00</updated>
     <author>
         <name>Rod</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://rodoviario.github.io/using-publii-for-bloggin/"/>
         <id>https://rodoviario.github.io/using-publii-for-bloggin/</id>
 
-        <updated>2022-07-09T19:50:59-03:00</updated>
+        <updated>2022-07-09T20:17:13-03:00</updated>
             <summary>
                 <![CDATA[
                     Couple of years have passed since last try, and found there is no easy way to 'continue' posting to github pages if you reinstaled and lost publii source files, so it makes sense to also have a (private) repo of the source files, perhaps the&hellip;
