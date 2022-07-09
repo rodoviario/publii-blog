@@ -3,12 +3,32 @@
     <title>rod-o-blog</title>
     <link href="https://rodoviario.github.io/feed.xml" rel="self" />
     <link href="https://rodoviario.github.io" />
-    <updated>2020-10-01T06:16:01-03:00</updated>
+    <updated>2022-07-09T19:50:59-03:00</updated>
     <author>
         <name>Rod</name>
     </author>
     <id>https://rodoviario.github.io</id>
 
+    <entry>
+        <title>Using publii for blogging</title>
+        <author>
+            <name>Rod</name>
+        </author>
+        <link href="https://rodoviario.github.io/using-publii-for-bloggin/"/>
+        <id>https://rodoviario.github.io/using-publii-for-bloggin/</id>
+
+        <updated>2022-07-09T19:50:59-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Couple of years have passed since last try, and found there is no easy way to 'continue' posting to github pages if you reinstaled and lost publii source files, so it makes sense to also have a (private) repo of the source files, perhaps the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Couple of years have passed since last try, and found there is no easy way to 'continue' posting to github pages if you reinstaled and lost publii source files, so it makes sense to also have a (private) repo of the source files, perhaps the 'input' directory inside publii's one</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The best time for coding</title>
         <author>
@@ -17,15 +37,15 @@
         <link href="https://rodoviario.github.io/the-best-time-for-coding/"/>
         <id>https://rodoviario.github.io/the-best-time-for-coding/</id>
 
-        <updated>2020-10-01T06:16:01-03:00</updated>
+        <updated>2022-07-09T19:44:54-03:00</updated>
             <summary>
                 <![CDATA[
-                    Early morning, before the normal day starts, its easier to focus on whatever thing you want to. Of course, that is not enterely true if you had a bad night lacking sleep, and also may be not true for many people and for different reazons,&hellip;
+                    Early morning, before the normal day starts, its easier to focus on whatever thing you want to. Of course, that is not enterely true if you had a bad night lacking sleep, and also may be not true for many people and for different reasons,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Early morning, before the normal day starts, its easier to focus on whatever thing you want to. Of course, that is not enterely true if you had a bad night lacking sleep, and also may be not true for many people and for different reazons, but its been the best time for me, either to solver problemas or to learn new things.</p>
+                <p>Early morning, before the normal day starts, its easier to focus on whatever thing you want to. Of course, that is not enterely true if you had a bad night lacking sleep, and also may be not true for many people and for different reasons, but its been the best time for me, either to solve problems or to learn new things.</p>
             ]]>
         </content>
     </entry>

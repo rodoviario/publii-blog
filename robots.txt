@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rodoviario.github.io/sitemap.xml

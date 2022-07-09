@@ -10,18 +10,32 @@
     },
     "items": [
         {
-            "id": "https://rodoviario.github.io/the-best-time-for-coding/",
-            "url": "https://rodoviario.github.io/the-best-time-for-coding/",
-            "title": "The best time for coding",
-            "summary": "Early morning, before the normal day starts, its easier to focus on whatever thing you want to. Of course, that is not enterely true if you had a bad night lacking sleep, and also may be not true for many people and for different reazons,&hellip;",
-            "content_html": "<p>Early morning, before the normal day starts, its easier to focus on whatever thing you want to. Of course, that is not enterely true if you had a bad night lacking sleep, and also may be not true for many people and for different reazons, but its been the best time for me, either to solver problemas or to learn new things.</p>",
+            "id": "https://rodoviario.github.io/using-publii-for-bloggin/",
+            "url": "https://rodoviario.github.io/using-publii-for-bloggin/",
+            "title": "Using publii for blogging",
+            "summary": "Couple of years have passed since last try, and found there is no easy way to 'continue' posting to github pages if you reinstaled and lost publii source files, so it makes sense to also have a (private) repo of the source files, perhaps the&hellip;",
+            "content_html": "<p>Couple of years have passed since last try, and found there is no easy way to 'continue' posting to github pages if you reinstaled and lost publii source files, so it makes sense to also have a (private) repo of the source files, perhaps the 'input' directory inside publii's one</p>",
             "author": {
                 "name": "Rod"
             },
             "tags": [
             ],
-            "date_published": "2020-10-01T06:16:01-03:00",
-            "date_modified": "2020-10-01T06:16:01-03:00"
+            "date_published": "2022-07-09T19:48:14-03:00",
+            "date_modified": "2022-07-09T19:50:59-03:00"
+        },
+        {
+            "id": "https://rodoviario.github.io/the-best-time-for-coding/",
+            "url": "https://rodoviario.github.io/the-best-time-for-coding/",
+            "title": "The best time for coding",
+            "summary": "Early morning, before the normal day starts, its easier to focus on whatever thing you want to. Of course, that is not enterely true if you had a bad night lacking sleep, and also may be not true for many people and for different reasons,&hellip;",
+            "content_html": "<p>Early morning, before the normal day starts, its easier to focus on whatever thing you want to. Of course, that is not enterely true if you had a bad night lacking sleep, and also may be not true for many people and for different reasons, but its been the best time for me, either to solve problems or to learn new things.</p>",
+            "author": {
+                "name": "Rod"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-09T19:44:54-03:00",
+            "date_modified": "2022-07-09T19:44:54-03:00"
         },
         {
             "id": "https://rodoviario.github.io/setting-up-the-new-gh-readmeprofile-page/",
