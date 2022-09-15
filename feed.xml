@@ -3,12 +3,37 @@
     <title>rod-o-blog</title>
     <link href="https://rodoviario.github.io/feed.xml" rel="self" />
     <link href="https://rodoviario.github.io" />
-    <updated>2022-07-10T04:48:12-03:00</updated>
+    <updated>2022-09-15T10:41:24-03:00</updated>
     <author>
         <name>Rod</name>
     </author>
     <id>https://rodoviario.github.io</id>
 
+    <entry>
+        <title>Aprendiendo React</title>
+        <author>
+            <name>Rod</name>
+        </author>
+        <link href="https://rodoviario.github.io/aprendiendo-react/"/>
+        <id>https://rodoviario.github.io/aprendiendo-react/</id>
+            <category term="vue"/>
+            <category term="react"/>
+            <category term="frontend"/>
+            <category term="estudio"/>
+            <category term="angular"/>
+
+        <updated>2022-09-15T10:40:08-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Para ser justos, Angular tuvo su (primer) lugar entre los frameworks que decidí aprender. Después estuvo Vue, que sigue siendo mi preferido. Sin embargo React continúa liderando y no me deja lternativa que aprenderlo también ¯\_(ツ)_/¯
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Para ser justos, Angular tuvo su (primer) lugar entre los frameworks que decidí aprender. Después estuvo Vue, que sigue siendo mi preferido. Sin embargo React continúa liderando y no me deja lternativa que aprenderlo también ¯\_(ツ)_/¯</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Using publii for blogging</title>
         <author>
@@ -16,8 +41,10 @@
         </author>
         <link href="https://rodoviario.github.io/using-publii-for-bloggin/"/>
         <id>https://rodoviario.github.io/using-publii-for-bloggin/</id>
+            <category term="publii"/>
+            <category term="blog"/>
 
-        <updated>2022-07-09T20:17:13-03:00</updated>
+        <updated>2022-09-15T10:40:45-03:00</updated>
             <summary>
                 <![CDATA[
                     Couple of years have passed since last try, and found there is no easy way to 'continue' posting to github pages if you reinstaled and lost publii source files, so it makes sense to also have a (private) repo of the source files, perhaps the&hellip;
@@ -36,8 +63,11 @@
         </author>
         <link href="https://rodoviario.github.io/the-best-time-for-coding/"/>
         <id>https://rodoviario.github.io/the-best-time-for-coding/</id>
+            <category term="time"/>
+            <category term="morning"/>
+            <category term="focus"/>
 
-        <updated>2022-07-10T04:48:12-03:00</updated>
+        <updated>2022-09-15T10:41:24-03:00</updated>
             <summary>
                 <![CDATA[
                     Early morning, before the normal day starts, its easier to focus on whatever thing you want to. Of course, that is not enterely true if you had a bad night lacking sleep, and also may be not true for many people and for different reasons,&hellip;
