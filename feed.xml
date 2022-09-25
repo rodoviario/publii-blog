@@ -3,7 +3,7 @@
     <title>rod-o-blog</title>
     <link href="https://rodoviario.github.io/feed.xml" rel="self" />
     <link href="https://rodoviario.github.io" />
-    <updated>2022-09-25T11:22:43-03:00</updated>
+    <updated>2022-09-25T11:24:38-03:00</updated>
     <author>
         <name>Rod</name>
     </author>
@@ -16,8 +16,12 @@
         </author>
         <link href="https://rodoviario.github.io/lua-loeve-excelente-curso-en-freecodecamp/"/>
         <id>https://rodoviario.github.io/lua-loeve-excelente-curso-en-freecodecamp/</id>
+            <category term="löve2d"/>
+            <category term="löve"/>
+            <category term="lua"/>
+            <category term="game"/>
 
-        <updated>2022-09-25T11:22:43-03:00</updated>
+        <updated>2022-09-25T11:24:38-03:00</updated>
             <summary>
                 <![CDATA[
                     Estoy siguiendo un curso en game programming promocionado en freecodecamp.com, de Stevesteacher muy bueno y completo. Va desde nivel beginner, dando lo básico de Lua, instalación del Löve framework y luego paso a paso la creación de juegos. El primero es para principiantes, el siguiente&hellip;

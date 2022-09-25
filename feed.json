@@ -19,9 +19,13 @@
                 "name": "Rod"
             },
             "tags": [
+                   "löve2d",
+                   "löve",
+                   "lua",
+                   "game"
             ],
             "date_published": "2022-09-25T11:22:43-03:00",
-            "date_modified": "2022-09-25T11:22:43-03:00"
+            "date_modified": "2022-09-25T11:24:38-03:00"
         },
         {
             "id": "https://rodoviario.github.io/aprendiendo-react/",
