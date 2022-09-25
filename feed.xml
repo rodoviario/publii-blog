@@ -3,12 +3,35 @@
     <title>rod-o-blog</title>
     <link href="https://rodoviario.github.io/feed.xml" rel="self" />
     <link href="https://rodoviario.github.io" />
-    <updated>2022-09-15T10:41:24-03:00</updated>
+    <updated>2022-09-25T11:22:43-03:00</updated>
     <author>
         <name>Rod</name>
     </author>
     <id>https://rodoviario.github.io</id>
 
+    <entry>
+        <title>Lua Löve, excelente curso en freecodecamp</title>
+        <author>
+            <name>Rod</name>
+        </author>
+        <link href="https://rodoviario.github.io/lua-loeve-excelente-curso-en-freecodecamp/"/>
+        <id>https://rodoviario.github.io/lua-loeve-excelente-curso-en-freecodecamp/</id>
+
+        <updated>2022-09-25T11:22:43-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Estoy siguiendo un curso en game programming promocionado en freecodecamp.com, de Stevesteacher muy bueno y completo. Va desde nivel beginner, dando lo básico de Lua, instalación del Löve framework y luego paso a paso la creación de juegos. El primero es para principiantes, el siguiente&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Estoy siguiendo un curso en game programming promocionado en freecodecamp.com, de Stevesteacher muy bueno y completo. Va desde nivel beginner, dando lo básico de Lua, instalación del Löve framework y luego paso a paso la creación de juegos. El primero es para principiantes, el siguiente es más avanzado (por ese voy ahora) :)</p>
+<p><a href="https://www.youtube.com/watch?v=I549C6SmUnk&amp;t=23927s">https://www.youtube.com/watch?v=I549C6SmUnk&amp;t=23927s</a></p>
+<p><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/c/Stevesteacher" rel="nofollow" dir="auto">https://www.youtube.com/c/Stevesteacher</a></p>
+<p><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="https://www.youtube.com/redirect?event=video_description&amp;redir_token=QUFFLUhqbjFvZzJpSjlwVWJTb2pfeXVOc1h3eTJjSUpRZ3xBQ3Jtc0tud3hfWENHNEFmWWxEbkF6MXJZclZOZVFETEIwaUlqUVdPanhzRFlUOXRxd1p4OVJwWnFqN0xFMkx5X0NEbmQzb2FuTE8wX3BreFBvb1Rxb0xCY1Utbm1IQ1VGNTNTWElyTzFla1Q0N01sV0Z4bnZDbw&amp;q=https%3A%2F%2Fgithub.com%2FWeebNetsu%2F&amp;v=I549C6SmUnk" rel="nofollow noopener" target="_blank" dir="auto">https://github.com/WeebNetsu/</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Aprendiendo React</title>
         <author>
