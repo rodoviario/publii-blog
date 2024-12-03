@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://rodoviario.github.io/cs50x/",
+            "url": "https://rodoviario.github.io/cs50x/",
+            "title": "cs50x",
+            "summary": "Gran re-descubrimiento. Harvard ofrece una decena de cursos que pueden ser tomados sync o async, a tu propio tiempo y con certificado online gratuito. * Si bien están pensados para ser tomados en 10 semanas, disponen de una ventana de 6 meses para ser completados.",
+            "content_html": "<p>Gran re-descubrimiento. Harvard ofrece <a href=\"https://cs50.harvard.edu/x/2024/courses/\" title=\"cursos cs50x de harvard\" target=\"_blank\" rel=\"noopener noreferrer\">una decena de cursos</a> que pueden ser tomados sync o async, a tu propio tiempo y con certificado online gratuito.</p>\n<p>* Si bien están pensados para ser tomados en 10 semanas, disponen de una ventana de 6 meses para ser completados.</p>\n<p>* Proveen una máquina virtual completa, con entorno de desarrollo preconfigurado, basado en Code (github codespaces) donde uno puede realizar todos los ejercicios y el proyecto final (necesario para certificarse)</p>\n<p>* Tiene una AI que hace las veces de profesor/tutor, y ayuda a destrabarse en los problemas sin spoilear soluciones</p>\n<p>* Está actualizado el currículum a tecnologías que existen hoy, mayormente FLOSS.</p>",
+            "author": {
+                "name": "Rod"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-12-03T10:01:31-03:00",
+            "date_modified": "2024-12-03T10:01:31-03:00"
+        },
+        {
             "id": "https://rodoviario.github.io/lua-loeve-excelente-curso-en-freecodecamp/",
             "url": "https://rodoviario.github.io/lua-loeve-excelente-curso-en-freecodecamp/",
             "title": "Lua Löve, excelente curso en freecodecamp",

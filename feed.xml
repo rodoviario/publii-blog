@@ -1,14 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>rod-o-blog</title>
     <link href="https://rodoviario.github.io/feed.xml" rel="self" />
     <link href="https://rodoviario.github.io" />
-    <updated>2022-09-25T11:26:23-03:00</updated>
+    <updated>2024-12-03T10:01:31-03:00</updated>
     <author>
         <name>Rod</name>
     </author>
     <id>https://rodoviario.github.io</id>
 
+    <entry>
+        <title>cs50x</title>
+        <author>
+            <name>Rod</name>
+        </author>
+        <link href="https://rodoviario.github.io/cs50x/"/>
+        <id>https://rodoviario.github.io/cs50x/</id>
+
+        <updated>2024-12-03T10:01:31-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Gran re-descubrimiento. Harvard ofrece una decena de cursos que pueden ser tomados sync o async, a tu propio tiempo y con certificado online gratuito. * Si bien están pensados para ser tomados en 10 semanas, disponen de una ventana de 6 meses para ser completados.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Gran re-descubrimiento. Harvard ofrece <a href="https://cs50.harvard.edu/x/2024/courses/" title="cursos cs50x de harvard" target="_blank" rel="noopener noreferrer">una decena de cursos</a> que pueden ser tomados sync o async, a tu propio tiempo y con certificado online gratuito.</p>
+<p>* Si bien están pensados para ser tomados en 10 semanas, disponen de una ventana de 6 meses para ser completados.</p>
+<p>* Proveen una máquina virtual completa, con entorno de desarrollo preconfigurado, basado en Code (github codespaces) donde uno puede realizar todos los ejercicios y el proyecto final (necesario para certificarse)</p>
+<p>* Tiene una AI que hace las veces de profesor/tutor, y ayuda a destrabarse en los problemas sin spoilear soluciones</p>
+<p>* Está actualizado el currículum a tecnologías que existen hoy, mayormente FLOSS.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Lua Löve, excelente curso en freecodecamp</title>
         <author>
@@ -21,7 +45,7 @@
             <category term="lua"/>
             <category term="game"/>
 
-        <updated>2022-09-25T11:26:23-03:00</updated>
+        <updated>2022-09-25T11:22:43-03:00</updated>
             <summary>
                 <![CDATA[
                     Estoy siguiendo un curso en game programming promocionado en freecodecamp.com, de Stevesteacher muy bueno y completo. Va desde nivel beginner, dando lo básico de Lua, instalación del Löve framework y luego paso a paso la creación de juegos. El primero es para principiantes, el siguiente&hellip;
@@ -71,7 +95,7 @@
             <category term="publii"/>
             <category term="blog"/>
 
-        <updated>2022-09-15T10:40:45-03:00</updated>
+        <updated>2022-07-09T19:48:14-03:00</updated>
             <summary>
                 <![CDATA[
                     Couple of years have passed since last try, and found there is no easy way to 'continue' posting to github pages if you reinstaled and lost publii source files, so it makes sense to also have a (private) repo of the source files, perhaps the&hellip;
@@ -94,7 +118,7 @@
             <category term="morning"/>
             <category term="focus"/>
 
-        <updated>2022-09-15T10:41:24-03:00</updated>
+        <updated>2020-12-10T19:44:00-03:00</updated>
             <summary>
                 <![CDATA[
                     Early morning, before the normal day starts, its easier to focus on whatever thing you want to. Of course, that is not enterely true if you had a bad night lacking sleep, and also may be not true for many people and for different reasons,&hellip;
